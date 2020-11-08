@@ -1,4 +1,4 @@
-# UCSD_ECE_271A_Projects
+# UCSD ECE 271A Projects
 ECE 271A is a course focused on statistical learning. It has 4 homeworks which have extensive computer assignments. These assignments focus on the recognition of a cheetah in a black & white png image, by machine learning. In different homeworks, progressively better methods are used for the recognition of the image. 
 
 All the coding for the homeworks are done in MATLAB. The relevant .m files for each homework is in their respective folders. Also in each folder, files that are required externally are given. Finally in each Homework_Explanation subfolder, the original homework questions and my report about my results are given.
